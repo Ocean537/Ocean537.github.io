@@ -25,6 +25,7 @@ Here is **Lei Liu**. I obtained my PhD from The Chinese Univerity of Hong Kong, 
 
 ## News and Updates
 
+- **04/2026:** Three paper accepted by ACL 2026, one oral and two findings.
 - **01/2026:** One paper accepted by ICLR 2026.
 - **11/2025:** One paper accepted by AAAI 2026.
 - **05/2025:** One paper accepted by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025.
