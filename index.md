@@ -47,7 +47,6 @@ Here is **Lei Liu**. I obtained my PhD from The Chinese Univerity of Hong Kong, 
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OZGoITQs8Nmbi0rmn1JffCvcxGxT77UqzDbHAYMHoQ4"></script> -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NbXwkmeS0FwK40yozu2aOoCHTGJGC0x38mCrJLi122I&cl=ffffff&w=a"></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=467&t=tt&d=NbXwkmeS0FwK40yozu2aOoCHTGJGC0x38mCrJLi122I'></script>
 <br>
 
