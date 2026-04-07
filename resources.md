@@ -5,6 +5,10 @@ title: Resources
 ---
 
 ## Datasets
+- [LiveClin: A Live Clinical Benchmark without Leakage](https://openreview.net/pdf?id=E0WSAugJ0j)
+<br>LiveClin is a contamination-free, biannually updated clinical benchmark for evaluating large vision-language models on realistic, multi-stage clinical case reasoning with medical images and tables. Each case presents a clinical scenario followed by a sequence of multiple-choice questions (MCQs) that mirror the progressive diagnostic workflow a clinician would follow — from initial presentation through diagnosis, treatment, complication management, and follow-up.
+<br>
+
 - [Mandarin Chinese Cued Speech Dataset (MCCSD)](https://mccs2023.github.io)
 <br>This MCCS dataset is the first large-scale Mandarin Chinese Cued Speech dataset. This dataset covers 23 major categories of scenarios (e.g, communication, transportation and shoping) and 72 subcategories of scenarios (e.g, meeting, dating and introduction). It is recorded by four skilled native Mandarn Chinese Cued Speech cuers with portable cameras on the mobile phones. The Cued Speech videos are recorded with 30fps and 1280x720 format. We provide the raw Cued Speech videos, text file (with 1000 sentences) and corresponding annotations which contains two kind of data annotation.
 <br>
